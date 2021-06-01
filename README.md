@@ -10,4 +10,7 @@
 >
 >. In Pune, 62% of the population is under 30 with a larger-than-average share of people in the 25-34 age group. The literacy rate in Pune is 86%, with a higher literacy rate of 90% for men and 81% for women.
 >
->current:  6,807,984
+>current:  6,807,984'
+>
+>4424 - rest in pune
+>
