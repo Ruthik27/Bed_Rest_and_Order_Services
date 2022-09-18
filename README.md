@@ -1,7 +1,8 @@
 ***Internship Projects April 2021 - October 2021***
-# Bed_Rest_Order-Services
+# Bed_Rest_and_Order-Services (Logistics)
+### Role > Data Analyst Intern
 
-Worked on Following Projects under the **Business Intelligence Department** and Collaborated with the **Marketing Team**
+### Worked on Following Projects under the *Business Intelligence Department* and Collaborated with the *Marketing Team*
 
 ## [Pune Up Turn Project](https://github.com/Ruthik27/Bed_Rest_Order-Services/tree/main/swiggy_pune)
 
