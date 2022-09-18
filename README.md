@@ -1,4 +1,4 @@
-*** Internship Projects April 2021 - October 2021***
+***Internship Projects April 2021 - October 2021***
 # Bed_Rest_Order-Services
 
 Worked on Following Projects under the **Business Intelligence Department** and Collaborated with the **Marketing Team**
